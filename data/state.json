@@ -1,0 +1,782 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "shapes": [
+        {
+          "type": "STAR",
+          "x": 49,
+          "y": 9,
+          "radius": 4,
+          "char": "x",
+          "z": 1
+        },
+        {
+          "type": "RECT",
+          "x": 30,
+          "y": 22,
+          "width": 4,
+          "height": 2,
+          "char": "x",
+          "z": 34
+        },
+        {
+          "type": "STAR",
+          "x": 55,
+          "y": 21,
+          "radius": 1,
+          "char": "@",
+          "z": 35
+        },
+        {
+          "type": "TRI",
+          "x": 27,
+          "y": 13,
+          "size": 3,
+          "char": "%",
+          "z": 70
+        },
+        {
+          "type": "TRI",
+          "x": 59,
+          "y": 7,
+          "size": 2,
+          "char": "@",
+          "z": 96
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 70,
+          "y": 5,
+          "size": 6,
+          "char": "+",
+          "z": 1
+        },
+        {
+          "type": "TRI",
+          "x": 26,
+          "y": 11,
+          "size": 6,
+          "char": "o",
+          "z": 92
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 49,
+          "y": 14,
+          "size": 6,
+          "char": "@",
+          "z": 22
+        },
+        {
+          "type": "STAR",
+          "x": 37,
+          "y": 11,
+          "radius": 3,
+          "char": "*",
+          "z": 73
+        },
+        {
+          "type": "STAR",
+          "x": 61,
+          "y": 16,
+          "radius": 2,
+          "char": "%",
+          "z": 89
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 60,
+          "y": 12,
+          "size": 4,
+          "char": "*",
+          "z": 33
+        },
+        {
+          "type": "TRI",
+          "x": 64,
+          "y": 13,
+          "size": 5,
+          "char": "*",
+          "z": 50
+        },
+        {
+          "type": "STAR",
+          "x": 24,
+          "y": 8,
+          "radius": 3,
+          "char": "#",
+          "z": 85
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 29,
+          "y": 10,
+          "size": 5,
+          "char": "#",
+          "z": 40
+        },
+        {
+          "type": "TRI",
+          "x": 57,
+          "y": 11,
+          "size": 6,
+          "char": "#",
+          "z": 45
+        },
+        {
+          "type": "RECT",
+          "x": 27,
+          "y": 17,
+          "width": 8,
+          "height": 5,
+          "char": "%",
+          "z": 54
+        },
+        {
+          "type": "STAR",
+          "x": 45,
+          "y": 7,
+          "radius": 4,
+          "char": "x",
+          "z": 75
+        },
+        {
+          "type": "STAR",
+          "x": 40,
+          "y": 18,
+          "radius": 2,
+          "char": "x",
+          "z": 76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "shapes": [
+        {
+          "type": "STAR",
+          "x": 69,
+          "y": 19,
+          "radius": 2,
+          "char": "+",
+          "z": 35
+        },
+        {
+          "type": "RECT",
+          "x": 32,
+          "y": 1,
+          "width": 6,
+          "height": 3,
+          "char": "%",
+          "z": 77
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "shapes": [
+        {
+          "type": "RECT",
+          "x": 50,
+          "y": 4,
+          "width": 6,
+          "height": 5,
+          "char": "+",
+          "z": 13
+        },
+        {
+          "type": "STAR",
+          "x": 65,
+          "y": 4,
+          "radius": 1,
+          "char": "+",
+          "z": 42
+        },
+        {
+          "type": "STAR",
+          "x": 42,
+          "y": 22,
+          "radius": 2,
+          "char": "%",
+          "z": 46
+        },
+        {
+          "type": "TRI",
+          "x": 51,
+          "y": 9,
+          "size": 4,
+          "char": "%",
+          "z": 50
+        },
+        {
+          "type": "STAR",
+          "x": 32,
+          "y": 2,
+          "radius": 1,
+          "char": "x",
+          "z": 77
+        },
+        {
+          "type": "TRI",
+          "x": 38,
+          "y": 11,
+          "size": 3,
+          "char": "o",
+          "z": 80
+        },
+        {
+          "type": "RECT",
+          "x": 44,
+          "y": 9,
+          "width": 4,
+          "height": 3,
+          "char": "o",
+          "z": 96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "shapes": [
+        {
+          "type": "RECT",
+          "x": 58,
+          "y": 18,
+          "width": 7,
+          "height": 4,
+          "char": "%",
+          "z": 2
+        },
+        {
+          "type": "TRI",
+          "x": 58,
+          "y": 18,
+          "size": 6,
+          "char": "o",
+          "z": 77
+        },
+        {
+          "type": "STAR",
+          "x": 43,
+          "y": 7,
+          "radius": 4,
+          "char": "+",
+          "z": 90
+        },
+        {
+          "type": "RECT",
+          "x": 60,
+          "y": 21,
+          "width": 10,
+          "height": 3,
+          "char": "+",
+          "z": 93
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "shapes": [
+        {
+          "type": "STAR",
+          "x": 52,
+          "y": 20,
+          "radius": 3,
+          "char": "+",
+          "z": 81
+        },
+        {
+          "type": "RECT",
+          "x": 56,
+          "y": 4,
+          "width": 8,
+          "height": 4,
+          "char": "*",
+          "z": 82
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 33,
+          "y": 3,
+          "size": 3,
+          "char": "x",
+          "z": 8
+        },
+        {
+          "type": "TRI",
+          "x": 71,
+          "y": 5,
+          "size": 3,
+          "char": "o",
+          "z": 30
+        },
+        {
+          "type": "STAR",
+          "x": 27,
+          "y": 13,
+          "radius": 4,
+          "char": "*",
+          "z": 80
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 40,
+          "y": 12,
+          "size": 4,
+          "char": "@",
+          "z": 6
+        },
+        {
+          "type": "TRI",
+          "x": 54,
+          "y": 14,
+          "size": 2,
+          "char": "+",
+          "z": 28
+        },
+        {
+          "type": "TRI",
+          "x": 61,
+          "y": 9,
+          "size": 3,
+          "char": "#",
+          "z": 37
+        },
+        {
+          "type": "STAR",
+          "x": 35,
+          "y": 22,
+          "radius": 2,
+          "char": "%",
+          "z": 63
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 41,
+          "y": 9,
+          "size": 2,
+          "char": "%",
+          "z": 4
+        },
+        {
+          "type": "TRI",
+          "x": 63,
+          "y": 11,
+          "size": 3,
+          "char": "%",
+          "z": 5
+        },
+        {
+          "type": "STAR",
+          "x": 67,
+          "y": 20,
+          "radius": 4,
+          "char": "%",
+          "z": 22
+        },
+        {
+          "type": "STAR",
+          "x": 54,
+          "y": 3,
+          "radius": 1,
+          "char": "*",
+          "z": 37
+        },
+        {
+          "type": "TRI",
+          "x": 33,
+          "y": 12,
+          "size": 4,
+          "char": "x",
+          "z": 45
+        },
+        {
+          "type": "STAR",
+          "x": 36,
+          "y": 19,
+          "radius": 3,
+          "char": "#",
+          "z": 51
+        },
+        {
+          "type": "RECT",
+          "x": 74,
+          "y": 14,
+          "width": 5,
+          "height": 6,
+          "char": "@",
+          "z": 55
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 64,
+          "y": 6,
+          "size": 5,
+          "char": "+",
+          "z": 2
+        },
+        {
+          "type": "RECT",
+          "x": 40,
+          "y": 7,
+          "width": 3,
+          "height": 6,
+          "char": "#",
+          "z": 18
+        },
+        {
+          "type": "RECT",
+          "x": 60,
+          "y": 19,
+          "width": 9,
+          "height": 3,
+          "char": "o",
+          "z": 32
+        },
+        {
+          "type": "RECT",
+          "x": 22,
+          "y": 10,
+          "width": 10,
+          "height": 3,
+          "char": "#",
+          "z": 49
+        },
+        {
+          "type": "STAR",
+          "x": 24,
+          "y": 6,
+          "radius": 3,
+          "char": "%",
+          "z": 69
+        },
+        {
+          "type": "TRI",
+          "x": 58,
+          "y": 7,
+          "size": 4,
+          "char": "x",
+          "z": 71
+        },
+        {
+          "type": "RECT",
+          "x": 23,
+          "y": 15,
+          "width": 7,
+          "height": 6,
+          "char": "x",
+          "z": 89
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 42,
+          "y": 4,
+          "size": 6,
+          "char": "%",
+          "z": 19
+        },
+        {
+          "type": "TRI",
+          "x": 31,
+          "y": 9,
+          "size": 5,
+          "char": "+",
+          "z": 59
+        },
+        {
+          "type": "TRI",
+          "x": 35,
+          "y": 20,
+          "size": 5,
+          "char": "@",
+          "z": 70
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "shapes": [
+        {
+          "type": "TRI",
+          "x": 61,
+          "y": 13,
+          "size": 5,
+          "char": "*",
+          "z": 5
+        },
+        {
+          "type": "RECT",
+          "x": 39,
+          "y": 20,
+          "width": 9,
+          "height": 4,
+          "char": "%",
+          "z": 10
+        },
+        {
+          "type": "TRI",
+          "x": 47,
+          "y": 7,
+          "size": 4,
+          "char": "@",
+          "z": 26
+        },
+        {
+          "type": "TRI",
+          "x": 23,
+          "y": 10,
+          "size": 3,
+          "char": "%",
+          "z": 30
+        },
+        {
+          "type": "TRI",
+          "x": 39,
+          "y": 8,
+          "size": 3,
+          "char": "@",
+          "z": 53
+        },
+        {
+          "type": "RECT",
+          "x": 63,
+          "y": 1,
+          "width": 5,
+          "height": 3,
+          "char": "o",
+          "z": 86
+        },
+        {
+          "type": "TRI",
+          "x": 68,
+          "y": 7,
+          "size": 2,
+          "char": "#",
+          "z": 89
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "shapes": [
+        {
+          "type": "STAR",
+          "x": 77,
+          "y": 9,
+          "radius": 2,
+          "char": "%",
+          "z": 0
+        },
+        {
+          "type": "STAR",
+          "x": 38,
+          "y": 13,
+          "radius": 2,
+          "char": "o",
+          "z": 7
+        },
+        {
+          "type": "TRI",
+          "x": 60,
+          "y": 2,
+          "size": 6,
+          "char": "o",
+          "z": 33
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "shapes": [
+        {
+          "type": "RECT",
+          "x": 50,
+          "y": 20,
+          "width": 10,
+          "height": 5,
+          "char": "*",
+          "z": 69
+        },
+        {
+          "type": "TRI",
+          "x": 73,
+          "y": 0,
+          "size": 6,
+          "char": "*",
+          "z": 70
+        },
+        {
+          "type": "RECT",
+          "x": 32,
+          "y": 16,
+          "width": 7,
+          "height": 4,
+          "char": "*",
+          "z": 84
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "shapes": [
+        {
+          "type": "RECT",
+          "x": 71,
+          "y": 13,
+          "width": 4,
+          "height": 3,
+          "char": "o",
+          "z": 8
+        },
+        {
+          "type": "STAR",
+          "x": 34,
+          "y": 9,
+          "radius": 4,
+          "char": "*",
+          "z": 43
+        },
+        {
+          "type": "RECT",
+          "x": 49,
+          "y": 5,
+          "width": 8,
+          "height": 6,
+          "char": "@",
+          "z": 52
+        },
+        {
+          "type": "STAR",
+          "x": 54,
+          "y": 8,
+          "radius": 2,
+          "char": "@",
+          "z": 68
+        },
+        {
+          "type": "TRI",
+          "x": 40,
+          "y": 19,
+          "size": 4,
+          "char": "x",
+          "z": 93
+        },
+        {
+          "type": "STAR",
+          "x": 54,
+          "y": 10,
+          "radius": 4,
+          "char": "x",
+          "z": 94
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "shapes": [
+        {
+          "type": "RECT",
+          "x": 55,
+          "y": 0,
+          "width": 3,
+          "height": 6,
+          "char": "+",
+          "z": 14
+        },
+        {
+          "type": "RECT",
+          "x": 43,
+          "y": 12,
+          "width": 3,
+          "height": 5,
+          "char": "x",
+          "z": 44
+        },
+        {
+          "type": "STAR",
+          "x": 33,
+          "y": 21,
+          "radius": 1,
+          "char": "*",
+          "z": 48
+        },
+        {
+          "type": "STAR",
+          "x": 28,
+          "y": 18,
+          "radius": 1,
+          "char": "x",
+          "z": 68
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "shapes": [
+        {
+          "type": "RECT",
+          "x": 35,
+          "y": 14,
+          "width": 7,
+          "height": 2,
+          "char": "+",
+          "z": 32
+        },
+        {
+          "type": "TRI",
+          "x": 50,
+          "y": 5,
+          "size": 5,
+          "char": "@",
+          "z": 76
+        }
+      ]
+    }
+  ]
+}

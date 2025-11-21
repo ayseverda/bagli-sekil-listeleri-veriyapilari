@@ -1,0 +1,24 @@
+# Derleme ürünleri
+lib/*.o
+bin/*.exe
+bin/*.dll
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Geçici dosyalar
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Data dosyası (isteğe bağlı - eğer state.json'ı versiyonlamak istemiyorsanız)
+# data/state.json
+
